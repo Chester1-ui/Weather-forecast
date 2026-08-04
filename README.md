@@ -47,7 +47,3 @@ I built this project to improve my understanding of Python development, REST API
 | Requests | API communication |
 | Plotly | Interactive graphs |
 | Git/GitHub | Version control |
-
----
-
-## 📂 Project Structure
